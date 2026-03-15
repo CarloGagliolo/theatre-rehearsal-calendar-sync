@@ -208,6 +208,16 @@ Questo valore può essere modificato nello script.
 
 ---
 
+## Limitazioni
+
+- non gestisce eventi ricorrenti
+- rimozione invitati limitata dalle API Google
+- struttura colonne non deve essere modificata
+
+
+---
+
+
 # Possibili miglioramenti
 
 * configurazione completa tramite foglio Settings

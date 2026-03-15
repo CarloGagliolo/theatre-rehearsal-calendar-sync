@@ -1,0 +1,23 @@
+# IDE
+/.idea/
+/.vscode/
+*.sw*
+
+
+# OS
+.DS_Store
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+
+
+# ── FILE TEMPORANEI (editor, agenti AI, OS) ──────────────────────────────────
+*.tmp
+*.tmp.*
+*.swp
+*.swo
+*~
+
+
+# ── FILE SVILUPPO ─────────────────────────────────────────────────────────────
+syncCreateEventiCalendarFromSheet.js
