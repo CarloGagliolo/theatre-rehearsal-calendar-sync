@@ -153,6 +153,16 @@ Questo aggiornerà automaticamente il calendario quando cambiano le presenze.
 
 ---
 
+## Quick start
+
+1. Copia il template Google Sheet
+2. Apri Extensions → Apps Script
+3. Incolla il codice
+4. Inserisci il CALENDAR_ID nel foglio Settings
+5. Crea un trigger automatico (5 minuti)
+
+---
+
 # Logica di funzionamento
 
 Lo script esegue i seguenti controlli per ogni riga del foglio:
