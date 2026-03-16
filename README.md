@@ -29,6 +29,16 @@ La sincronizzazione avviene tramite **Google Apps Script**, integrato direttamen
 
 ---
 
+## Quick start
+
+1. Copia il template Google Sheet
+2. Apri Extensions → Apps Script
+3. Incolla il codice
+4. Inserisci il CALENDAR_ID nel foglio Settings
+5. Crea un trigger automatico (5 minuti)
+
+---
+
 # Struttura del Google Sheet
 
 Il foglio contiene tre tab principali.
@@ -150,16 +160,6 @@ Configurazione consigliata:
 * frequenza: **ogni 5 minuti**
 
 Questo aggiornerà automaticamente il calendario quando cambiano le presenze.
-
----
-
-## Quick start
-
-1. Copia il template Google Sheet
-2. Apri Extensions → Apps Script
-3. Incolla il codice
-4. Inserisci il CALENDAR_ID nel foglio Settings
-5. Crea un trigger automatico (5 minuti)
 
 ---
 
