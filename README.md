@@ -56,7 +56,7 @@ Spiegazione colonne:
 
 * **DATA_ISO** → data in formato ISO utilizzata dallo script
 * **DATA** → data leggibile per gli utenti
-* **colonne attori** → presenza indicata con `1`, `X` o simile
+* **colonne attori** → presenza indicata con `✓` o simile
 * **PRESENTI** → numero totale dei presenti
 * **EVENTO_CREATO** → flag tecnico
 * **EVENT_ID** → ID dell’evento nel calendario
